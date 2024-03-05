@@ -1,5 +1,7 @@
 # MediSync :pill:
 
+:cherry_blossom: **Welcome to MediSync – where technology meets care.** :cherry_blossom:
+
 ## Introduction
 **MediSync** – your all-in-one medication management solution that blends cutting-edge IoT technology with user-centric design to bring you a smarter, more reliable way to manage medications.
 
@@ -21,7 +23,7 @@ With MediSync, you're not alone in your healthcare journey. Our platform enables
 
 
 
-:cherry_blossom: **Welcome to MediSync – where technology meets care.** :cherry_blossom:
+
 
 ## User Guide
 
