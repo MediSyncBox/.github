@@ -20,13 +20,18 @@ Medications require the right storage conditions to maintain their efficacy. Med
 With MediSync, you're not alone in your healthcare journey. Our platform enables connectivity between you and your caregivers. Share access to your medication schedules, receive support, and stay connected with those who care for you, all through the MediSync app.
 
 
-	<big> Discover the ease and peace of mind that comes with knowing your medication management is in sync with your health needs. </big>
+** Discover the ease and peace of mind that comes with knowing your medication management is in sync with your health needs. **
 :cherry_blossom: **Welcome to MediSync – where technology meets care.** :cherry_blossom:
 
-## User Requirements
+## User Guide
+
 
 
 
 
 ## About Us
+We are a creative team of passionate innovators, currently pursuing our Master's degrees at University College London. United by the vision to enhance healthcare through technology, we started on this journey to bridge the gap between complex medication management and the need for a simplified, user-friendly solution.
+
+
 ## Contact
+:school: You can find us at: Robotics Lab, One Pool Street, Stratford, London, United Kingdom.
