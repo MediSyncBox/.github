@@ -37,4 +37,5 @@ We are a creative team of passionate innovators, currently pursuing our Master's
 
 ## Contact
 :school: You can find us at: Robotics Lab, One Pool Street, Stratford, London, United Kingdom.
+
 :school: Or visit our website: https://github.com/MediSyncBox
