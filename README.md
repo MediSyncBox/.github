@@ -20,7 +20,8 @@ Medications require the right storage conditions to maintain their efficacy. Med
 With MediSync, you're not alone in your healthcare journey. Our platform enables connectivity between you and your caregivers. Share access to your medication schedules, receive support, and stay connected with those who care for you, all through the MediSync app.
 
 
-** Discover the ease and peace of mind that comes with knowing your medication management is in sync with your health needs. **
+**Discover the ease and peace of mind that comes with knowing your medication management is in sync with your health needs.**
+
 :cherry_blossom: **Welcome to MediSync – where technology meets care.** :cherry_blossom:
 
 ## User Guide
