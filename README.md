@@ -26,7 +26,8 @@ With MediSync, you're not alone in your healthcare journey. Our platform enables
 
 ## User Guide
 
-
+### Activate the medical box
+### Link to the APP
 
 
 
