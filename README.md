@@ -1,4 +1,4 @@
-# MediSync :pill:
+# MediSync :star2:
 
 :cherry_blossom: **Welcome to MediSync – where technology meets care.** :cherry_blossom:
 
